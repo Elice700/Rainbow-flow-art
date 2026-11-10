@@ -1,0 +1,21 @@
+{
+"name": "Pastel flow Art",
+"short_name": "Pastel Mold",
+"start_url": "./index.html",
+"display": "standalone",
+"background_color": "#f5f6f8",
+"theme_color": "#f5f6f8",
+"description": "Generative p5.js simulation using 4000 pastel particles with Physarum mold steering and color attraction forces.",
+"icons": [
+{
+"src": "https://placehold.co/192x192/f5f6f8/333333?text=Art",
+"sizes": "192x192",
+"type": "image/png"
+},
+{
+"src": "https://placehold.co/512x512/f5f6f8/333333?text=Art",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
